@@ -1,7 +1,5 @@
-# zelda
+# template-monorepo-lib
 
-## What
-
-some npm packages used to improve efficiency
+template-monorepo-lib 
 
 MIT

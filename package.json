@@ -1,7 +1,7 @@
 {
-  "name": "zelda",
+  "name": "template-monorepo-lib",
   "version": "0.0.0",
-  "description": "zelda",
+  "description": "template-monorepo-lib",
   "scripts": {
     "build": "pnpm -r build",
     "prepare": "husky install",

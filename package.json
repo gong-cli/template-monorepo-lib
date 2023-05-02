@@ -1,7 +1,7 @@
 {
-  "name": "<%= projectName %>",
+  "name": "<%= data.projectName %>",
   "version": "0.0.0",
-  "description": "template-monorepo-lib",
+  "description": "<%= data.projectName %>",
   "scripts": {
     "build": "pnpm -r build",
     "prepare": "husky install",

@@ -1,5 +1,5 @@
 {
-  "name": "template-monorepo-lib",
+  "name": "<%= projectName %>",
   "version": "0.0.0",
   "description": "template-monorepo-lib",
   "scripts": {

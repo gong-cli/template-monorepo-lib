@@ -4,7 +4,6 @@
     "strict": true,
     "declaration": true,
     "skipLibCheck": true,
-    "baseUrl": "./",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "downlevelIteration": true
